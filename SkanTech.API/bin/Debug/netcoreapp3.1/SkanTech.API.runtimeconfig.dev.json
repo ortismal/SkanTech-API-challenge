@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cafrost/.dotnet/store/|arch|/|tfm|",
+      "/home/cafrost/.nuget/packages"
+    ]
+  }
+}
